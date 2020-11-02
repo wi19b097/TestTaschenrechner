@@ -103,3 +103,4 @@ C:\Users\Julia\source\repos\wi19b097\TestTaschenrechner\XUnitTestProject1\XUnitT
 C:\Users\Julia\source\repos\wi19b097\TestTaschenrechner\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
 C:\Users\Julia\source\repos\wi19b097\TestTaschenrechner\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp3.1\Validation.dll
 C:\Users\Julia\source\repos\wi19b097\TestTaschenrechner\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp3.1\Xunit.SkippableFact.dll
+C:\Users\Julia\source\repos\wi19b097\TestTaschenrechner\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp3.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
